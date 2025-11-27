@@ -1,5 +1,5 @@
 Agricultural E-Commerce Platform - Software Engineering Project
-```markdown
+
 * Led development of a comprehensive agricultural e-commerce system as Project Manager for a 4-member team using Agile methodology
 * Designed and documented complete system architecture using UML diagrams (use case, class, sequence, activity, deployment)
 * Implemented multi-actor system supporting customers, product managers, and delivery managers with role-based access control
@@ -11,4 +11,4 @@ Agricultural E-Commerce Platform - Software Engineering Project
 * Integrated external services including payment processing, authentication, and location-based routing optimization
 
 **Technologies & Methodologies:** UML modeling, Agile/Scrum, Requirements engineering, System architecture design, Database design
-```
+
